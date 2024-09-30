@@ -1,0 +1,50 @@
+.user-profile-page {
+    padding: 20px;
+    
+    background-color: #b3007d;
+  }
+  
+  .profile-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  
+  .profile-picture-container {
+    margin-top: 20px;
+  }
+  
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .profile-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .edit-btn,
+  .save-btn {
+    background-color: #b3007d;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  
+  .poll-item,
+  .activity-item,
+  .badge-item {
+    padding: 10px;
+    background-color: white;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  

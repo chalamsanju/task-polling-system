@@ -1,0 +1,46 @@
+.advanced-search-page {
+    padding: 20px;
+    background-color: #b3007d;
+  }
+  
+  .filters-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    color: #b3007d;
+  }
+
+  .filters-container li a:hover{
+    color: #b3007d;
+  }
+  
+  .filter-input,
+  .filter-select {
+    padding: 10px;
+    width: 200px;
+    
+  }
+  
+  .apply-filter-btn {
+    background-color: #b3007d;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .results-container {
+    margin-top: 20px;
+  }
+  
+  .poll-item {
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .poll-item h3 {
+    margin: 0;
+  }
+  
